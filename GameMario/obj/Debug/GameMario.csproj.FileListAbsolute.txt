@@ -1,0 +1,15 @@
+D:\GameMario\GameMario\bin\Debug\GameMario.exe.config
+D:\GameMario\GameMario\bin\Debug\GameMario.exe
+D:\GameMario\GameMario\bin\Debug\GameMario.pdb
+D:\GameMario\GameMario\obj\Debug\GameMario.csproj.AssemblyReference.cache
+D:\GameMario\GameMario\obj\Debug\GameMario.csproj.SuggestedBindingRedirects.cache
+D:\GameMario\GameMario\obj\Debug\GameMario.Properties.Resources.resources
+D:\GameMario\GameMario\obj\Debug\GameMario.csproj.GenerateResource.cache
+D:\GameMario\GameMario\obj\Debug\GameMario.csproj.CoreCompileInputs.cache
+D:\GameMario\GameMario\obj\Debug\GameMario.exe
+D:\GameMario\GameMario\obj\Debug\GameMario.pdb
+D:\GameMario\GameMario\obj\Debug\GameMario.fLogin.resources
+D:\GameMario\GameMario\obj\Debug\GameMario.Startgame.resources
+D:\GameMario\GameMario\obj\Debug\Interop.WMPLib.dll
+D:\GameMario\GameMario\obj\Debug\GameMario.csproj.ResolveComReference.cache
+D:\GameMario\GameMario\obj\Debug\GameMario.Setting.resources
